@@ -1,2 +1,2 @@
 # January-LeetCode-Challenge
-This repo contains solution for January LeetCoding Challenge in Java
+This repo contains solutions for January LeetCoding Challenge in Java
